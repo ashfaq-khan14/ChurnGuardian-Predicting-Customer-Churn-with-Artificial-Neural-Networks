@@ -2,7 +2,7 @@
 
 # Customer Churn Prediction
 
-  ![WhatsApp Image 2024-02-28 at 20 53 10_e49e9710](https://github.com/ashfaq-khan14/customer-churn-using-ANN/assets/120010803/432fe1c9-4f8d-4659-b97b-c52063dde5f8)
+  -----  ![WhatsApp Image 2024-02-28 at 20 53 10_e49e9710](https://github.com/ashfaq-khan14/customer-churn-using-ANN/assets/120010803/432fe1c9-4f8d-4659-b97b-c52063dde5f8)
 
 
 ## Overview
